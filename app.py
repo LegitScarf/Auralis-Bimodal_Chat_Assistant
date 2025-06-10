@@ -348,7 +348,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center; color: #666; padding: 1rem;'>
-        <p>Powered by OpenAI GPT-4 and DALL-E 3 | Built with Streamlit</p>
+        <p>Powered by OpenAI GPT-4 and DALL-E 3</p>
         <p><em>Tip: Use descriptive prompts for better image generation results!</em></p>
     </div>
     """, 
